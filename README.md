@@ -28,6 +28,7 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 Expected Output:
 The program should output a greeting like:
+Enter your first name: John
+Enter your last name: Doe
+Hello, John Doe! Welcome to the Python program.
 
-
-https://docs.google.com/document/d/1M781QdFh97DWItEaJOuklNK7pfkHq5cud7-LPk78Guc/edit?usp=sharing
